@@ -1,0 +1,24 @@
+[
+  {
+    "name": "robot",
+    "className": "com.ioc.test.entity.Robot"
+  },
+  {
+    "name": "hand",
+    "className": "com.ioc.test.entity.Hand"
+  },
+  {
+    "name": "mouth",
+    "className": "com.ioc.test.entity.Mouth",
+    "constructorArgs": [
+      {
+        "index": 1,
+        "name": "name",
+        "value": "马子骁"
+      }
+    ]
+  }
+]
+
+
+
